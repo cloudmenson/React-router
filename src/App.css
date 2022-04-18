@@ -1,0 +1,26 @@
+.App__nav-link {
+  margin: 15px 20px;
+}
+.App__nav-link:hover {
+  color: black;
+}
+.active {
+  color: black;
+}
+.App__common--return-btn {
+  margin: 15px 15px 15px 0;
+}
+.App__users-names,
+.App__users-albums-names {
+  font-size: 20px;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+}
+.App__users-names:hover,
+.App__users-albums-names:hover {
+  color: #ef5350;
+}
+.row .col {
+  padding: 8px 15px 8px 0;
+}
