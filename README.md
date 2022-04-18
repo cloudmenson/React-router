@@ -1,4 +1,4 @@
-Simple Phone-book application with redux-thunk
+App to view user photos with react-router (JSON Placeholder API)
 
 # Getting Started
 
