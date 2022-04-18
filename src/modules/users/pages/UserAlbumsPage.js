@@ -11,7 +11,7 @@ export default function UserAlbumsPage() {
   const userDetails = useUserDetails(id);
   return (
     <div className="App__users-albums container">
-      <h2>Albums {userDetails.name}</h2>
+      <h2>{userDetails.name}'s Albums</h2>
       <UserAlbums albums={albums} userDetails={userDetails} />
       <ButtonNavBack />
     </div>
